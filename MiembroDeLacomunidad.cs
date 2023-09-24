@@ -1,6 +1,6 @@
 ﻿
-// clase padre MiembroDeLacomunidad //
-public class MiembroDeLacomunidad
+// clase abstrac base MiembroDeLacomunidad //
+public abstract class MiembroDeLacomunidad
     {
     public string Nombre { get; set; }
     public int Edad {  get; set; }
